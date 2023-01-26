@@ -38,10 +38,6 @@ End the program.
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: Tejaswini.G
 RegisterNumber: 22004187
-'''Program to solve a matrix using Gaussian elimination with partial pivoting.
-Developed by: 
-RegisterNumber: 
-'''
 import numpy as np
 n=int(input())
 arr=np.zeros((n,n+1))
